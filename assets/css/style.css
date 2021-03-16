@@ -1,0 +1,40 @@
+.texto {
+    text-decoration: none;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.borda1 {
+    border-radius: 0px 0px 0px 0px;
+    border: 2px solid yellow;
+    background-color: snow;
+    width: 350px;
+    height: 250px;
+    text-align: left;
+}
+
+.borda2 {
+    border-radius: 0px 0px 0px 0px;
+    border: 2px solid red;
+    background-color: snow;
+    width: 400px;
+    height: 300px;
+    text-align: left;
+}
+
+.borda3 {
+    border-radius: 0px 0px 0px 0px;
+    border: 2px solid orange;
+    background-color: snow;
+    width: 350px;
+    height: 250px;
+    text-align: left;
+}
+
+.plano_de_fundo {
+    background-color: skyblue;
+}
+
+.img {
+    align-items: center;
+}
