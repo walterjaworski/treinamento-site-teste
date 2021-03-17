@@ -1,40 +1,28 @@
-.texto {
-    text-decoration: none;
-    text-align: left;
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: skyblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.borda1 {
-    border-radius: 0px 0px 0px 0px;
-    border: 2px solid yellow;
-    background-color: snow;
-    width: 350px;
-    height: 450px;
-    text-align: left;
+.borda {
+    background: #fff;
+    border-radius: 5px;
+    width: 300px;
+    height: 300px;
+    padding: 15px;
+    margin: 15px;
+    float: left;
 }
 
-.borda2 {
-    border-radius: 0px 0px 0px 0px;
-    border: 2px solid red;
-    background-color: snow;
-    width: 350px;
-    height: 450px;
-    text-align: left;
+.borda img {
+    width: 300px;
+    height: 150px;
 }
 
-.borda3 {
-    border-radius: 0px 0px 0px 0px;
-    border: 2px solid orange;
-    background-color: snow;
-    width: 350px;
-    height: 450px;
-    text-align: left;
-}
-
-.plano_de_fundo {
-    background-color: skyblue;
-}
-
-.img {
-    align-items: center;
+.borda h2 {
+    margin: 5px 0;
 }
